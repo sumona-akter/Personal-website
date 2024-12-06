@@ -1,1 +1,1 @@
-This is first personal digital portfolio. 
+This is my first personal digital portfolio. 
